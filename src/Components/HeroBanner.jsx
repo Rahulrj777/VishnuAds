@@ -87,6 +87,9 @@ const tl = gsap.timeline({
           <img src={vspell} alt="" />
         </div>
       </section>
+
+      <hr className="border-t-2 border-white my-4" />
+
     </>
   );
 }
